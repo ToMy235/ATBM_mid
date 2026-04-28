@@ -1,0 +1,170 @@
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\obj\Debug\AdminManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\obj\Debug\AdminManagement.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\obj\Debug\AdminManagement.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\obj\Debug\AdminManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\AdminManagement.exe.config
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\AdminManagement.exe
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\AdminManagement.pdb
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\System.Buffers.dll
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\System.Memory.dll
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\System.Buffers.xml
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\System.Memory.xml
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\obj\Debug\AdminMan.EC321E0D.Up2Date
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\obj\Debug\AdminManagement.exe
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\obj\Debug\AdminManagement.pdb
+C:\Users\Admin\OneDrive\Máy tính\ATBM PH1\AdminManagement\AdminManagement\obj\Debug\OracleDBAdmin.UI.Controls.UcGrantPrivilege.resources
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\AdminManagement.exe.config
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\AdminManagement.exe
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\AdminManagement.pdb
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\System.Buffers.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\System.Formats.Asn1.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\System.Memory.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\System.Text.Json.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\System.ValueTuple.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\System.Buffers.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\System.Formats.Asn1.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\System.Memory.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\System.Text.Json.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\bin\Debug\System.ValueTuple.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\obj\Debug\AdminManagement.csproj.AssemblyReference.cache
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\obj\Debug\AdminManagement.Properties.Resources.resources
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\obj\Debug\OracleDBAdmin.UI.Controls.UcGrantPrivilege.resources
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\obj\Debug\AdminManagement.csproj.GenerateResource.cache
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\obj\Debug\AdminManagement.csproj.CoreCompileInputs.cache
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\obj\Debug\AdminMan.EC321E0D.Up2Date
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\obj\Debug\AdminManagement.exe
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM_mid-thuong\AdminManagement\obj\Debug\AdminManagement.pdb
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\AdminManagement.exe.config
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\AdminManagement.exe
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\AdminManagement.pdb
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\System.Buffers.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\System.Formats.Asn1.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\System.Memory.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\System.Text.Json.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\System.ValueTuple.dll
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\System.Buffers.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\System.Formats.Asn1.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\System.Memory.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\System.Text.Json.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\bin\Debug\System.ValueTuple.xml
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\obj\Debug\AdminManagement.csproj.AssemblyReference.cache
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\obj\Debug\AdminManagement.Properties.Resources.resources
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\obj\Debug\OracleDBAdmin.UI.Controls.UcGrantPrivilege.resources
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\obj\Debug\AdminManagement.csproj.GenerateResource.cache
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\obj\Debug\AdminManagement.csproj.CoreCompileInputs.cache
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\obj\Debug\AdminMan.EC321E0D.Up2Date
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\obj\Debug\AdminManagement.exe
+C:\Users\khanh\OneDrive\Documents\StudyData\University\3rd Year\2nd Sem\Data Security\Project\Phanhe1\ATBM_mid-thuong\ATBM\AdminManagement\obj\Debug\AdminManagement.pdb
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\AdminManagement.exe.config
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\AdminManagement.exe
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\AdminManagement.pdb
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\System.Buffers.dll
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\System.Memory.dll
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\System.Text.Json.dll
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\System.ValueTuple.dll
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\System.Buffers.xml
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\System.Memory.xml
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\System.Text.Json.xml
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\Downloads\ATBM\AdminManagement\bin\Debug\System.ValueTuple.xml
+C:\Users\Asus\Downloads\ATBM\AdminManagement\obj\Debug\AdminManagement.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\ATBM\AdminManagement\obj\Debug\AdminManagement.Properties.Resources.resources
+C:\Users\Asus\Downloads\ATBM\AdminManagement\obj\Debug\OracleDBAdmin.UI.Controls.UcGrantPrivilege.resources
+C:\Users\Asus\Downloads\ATBM\AdminManagement\obj\Debug\AdminManagement.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\ATBM\AdminManagement\obj\Debug\AdminManagement.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\ATBM\AdminManagement\obj\Debug\AdminMan.EC321E0D.Up2Date
+C:\Users\Asus\Downloads\ATBM\AdminManagement\obj\Debug\AdminManagement.exe
+C:\Users\Asus\Downloads\ATBM\AdminManagement\obj\Debug\AdminManagement.pdb
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\AdminManagement.exe.config
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\AdminManagement.exe
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\AdminManagement.pdb
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\System.Memory.dll
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\System.Memory.xml
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\obj\Debug\AdminManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\obj\Debug\AdminManagement.Properties.Resources.resources
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\obj\Debug\OracleDBAdmin.UI.Controls.UcGrantPrivilege.resources
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\obj\Debug\AdminManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\obj\Debug\AdminManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\obj\Debug\AdminMan.EC321E0D.Up2Date
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\obj\Debug\AdminManagement.exe
+C:\Users\Admin\Downloads\ATBM\ATBM\AdminManagement\obj\Debug\AdminManagement.pdb

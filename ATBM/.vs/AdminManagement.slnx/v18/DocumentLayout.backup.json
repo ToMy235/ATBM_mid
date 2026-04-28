@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|c:\\users\\admin\\downloads\\atbm\\atbm\\adminmanagement\\ui\\controls\\ucroleeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\ui\\controls\\ucroleeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|c:\\users\\admin\\downloads\\atbm\\atbm\\adminmanagement\\ui\\controls\\ucroleeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\ui\\controls\\ucroleeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|c:\\users\\admin\\downloads\\atbm\\atbm\\adminmanagement\\ui\\controls\\ucviewprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\ui\\controls\\ucviewprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|c:\\users\\admin\\downloads\\atbm\\atbm\\adminmanagement\\ui\\controls\\ucviewprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\ui\\controls\\ucviewprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|c:\\users\\admin\\downloads\\atbm\\atbm\\adminmanagement\\ui\\controls\\ucuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\ui\\controls\\ucuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|c:\\users\\admin\\downloads\\atbm\\atbm\\adminmanagement\\ui\\controls\\ucuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\ui\\controls\\ucuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|c:\\users\\admin\\downloads\\atbm\\atbm\\adminmanagement\\ui\\controls\\ucusereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\ui\\controls\\ucusereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|c:\\users\\admin\\downloads\\atbm\\atbm\\adminmanagement\\ui\\controls\\ucusereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\ui\\controls\\ucusereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|c:\\users\\admin\\downloads\\atbm\\atbm\\adminmanagement\\ui\\controls\\ucrolelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\ui\\controls\\ucrolelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|c:\\users\\admin\\downloads\\atbm\\atbm\\adminmanagement\\ui\\controls\\ucrolelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\ui\\controls\\ucrolelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|c:\\users\\admin\\downloads\\atbm\\atbm\\adminmanagement\\ui\\controls\\ucrevokeprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\ui\\controls\\ucrevokeprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|c:\\users\\admin\\downloads\\atbm\\atbm\\adminmanagement\\ui\\controls\\ucrevokeprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\ui\\controls\\ucrevokeprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|c:\\users\\admin\\downloads\\atbm\\atbm\\adminmanagement\\ui\\controls\\ucgrantprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\ui\\controls\\ucgrantprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|c:\\users\\admin\\downloads\\atbm\\atbm\\adminmanagement\\ui\\controls\\ucgrantprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\ui\\controls\\ucgrantprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|c:\\users\\admin\\downloads\\atbm\\atbm\\adminmanagement\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|c:\\users\\admin\\downloads\\atbm\\atbm\\adminmanagement\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|c:\\users\\admin\\downloads\\atbm\\atbm\\adminmanagement\\services\\privilegeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\services\\privilegeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|c:\\users\\admin\\downloads\\atbm\\atbm\\adminmanagement\\data\\oracledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEE09C2-D96D-4D94-BA05-432338525121}|AdminManagement\\AdminManagement.csproj|solutionrelative:adminmanagement\\data\\oracledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UcUserList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcUserList.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\UI\\Controls\\UcUserList.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcUserList.cs [Design]",
+              "RelativeToolTip": "AdminManagement\\UI\\Controls\\UcUserList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T03:05:08.095Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UcUserEditor.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcUserEditor.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\UI\\Controls\\UcUserEditor.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcUserEditor.cs",
+              "RelativeToolTip": "AdminManagement\\UI\\Controls\\UcUserEditor.cs",
+              "ViewState": "AgIAAL4BAAAAAAAAAAAIwMoBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T02:57:56.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UcUserEditor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcUserEditor.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\UI\\Controls\\UcUserEditor.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcUserEditor.cs [Design]",
+              "RelativeToolTip": "AdminManagement\\UI\\Controls\\UcUserEditor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T02:57:53.96Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UcRoleList.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcRoleList.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\UI\\Controls\\UcRoleList.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcRoleList.cs",
+              "RelativeToolTip": "AdminManagement\\UI\\Controls\\UcRoleList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T02:51:10.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UcRoleList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcRoleList.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\UI\\Controls\\UcRoleList.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcRoleList.cs [Design]",
+              "RelativeToolTip": "AdminManagement\\UI\\Controls\\UcRoleList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T02:51:07.173Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UcRoleEditor.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcRoleEditor.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\UI\\Controls\\UcRoleEditor.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcRoleEditor.cs",
+              "RelativeToolTip": "AdminManagement\\UI\\Controls\\UcRoleEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T02:50:49.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UcViewPrivilege.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcViewPrivilege.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\UI\\Controls\\UcViewPrivilege.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcViewPrivilege.cs",
+              "RelativeToolTip": "AdminManagement\\UI\\Controls\\UcViewPrivilege.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T03:10:02.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UcRoleEditor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcRoleEditor.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\UI\\Controls\\UcRoleEditor.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcRoleEditor.cs [Design]",
+              "RelativeToolTip": "AdminManagement\\UI\\Controls\\UcRoleEditor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T02:50:32.216Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UcUserList.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcUserList.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\UI\\Controls\\UcUserList.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcUserList.cs",
+              "RelativeToolTip": "AdminManagement\\UI\\Controls\\UcUserList.cs",
+              "ViewState": "AgIAALUBAAAAAAAAAAAqwMkBAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T03:05:20.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UcViewPrivilege.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcViewPrivilege.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\UI\\Controls\\UcViewPrivilege.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcViewPrivilege.cs [Design]",
+              "RelativeToolTip": "AdminManagement\\UI\\Controls\\UcViewPrivilege.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T03:09:50.757Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UcRevokePrivilege.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcRevokePrivilege.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\UI\\Controls\\UcRevokePrivilege.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcRevokePrivilege.cs [Design]",
+              "RelativeToolTip": "AdminManagement\\UI\\Controls\\UcRevokePrivilege.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T02:43:42.39Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UcGrantPrivilege.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcGrantPrivilege.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\UI\\Controls\\UcGrantPrivilege.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcGrantPrivilege.cs",
+              "RelativeToolTip": "AdminManagement\\UI\\Controls\\UcGrantPrivilege.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvzMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T02:29:28.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\Services\\UserService.cs",
+              "RelativeToolTip": "AdminManagement\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T02:13:33.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\Services\\RoleService.cs",
+              "RelativeToolTip": "AdminManagement\\Services\\RoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T02:13:30.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PrivilegeService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\Services\\PrivilegeService.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\Services\\PrivilegeService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\Services\\PrivilegeService.cs",
+              "RelativeToolTip": "AdminManagement\\Services\\PrivilegeService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T02:13:23.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UcRevokePrivilege.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcRevokePrivilege.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\UI\\Controls\\UcRevokePrivilege.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcRevokePrivilege.cs",
+              "RelativeToolTip": "AdminManagement\\UI\\Controls\\UcRevokePrivilege.cs",
+              "ViewState": "AgIAAI8BAAAAAAAAAAAIwLYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T19:21:58.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UcGrantPrivilege.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcGrantPrivilege.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\UI\\Controls\\UcGrantPrivilege.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\UI\\Controls\\UcGrantPrivilege.cs [Design]",
+              "RelativeToolTip": "AdminManagement\\UI\\Controls\\UcGrantPrivilege.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T02:29:23.246Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OracleDb.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\Data\\OracleDb.cs",
+              "RelativeDocumentMoniker": "AdminManagement\\Data\\OracleDb.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ATBM\\ATBM\\AdminManagement\\Data\\OracleDb.cs",
+              "RelativeToolTip": "AdminManagement\\Data\\OracleDb.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T02:13:13.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
