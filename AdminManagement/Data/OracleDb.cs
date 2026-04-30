@@ -67,6 +67,7 @@ namespace OracleDBAdmin.Data
             using (var cmd = new OracleCommand(sql, conn))
             using (var da = new OracleDataAdapter(cmd))
             {
+                cmd.BindByName = true;
                 if (parameters != null && parameters.Length > 0)
                     cmd.Parameters.AddRange(parameters);
 
@@ -82,6 +83,7 @@ namespace OracleDBAdmin.Data
             using (var conn = GetConnection())
             using (var cmd = new OracleCommand(sql, conn))
             {
+                cmd.BindByName = true;
                 if (parameters != null && parameters.Length > 0)
                     cmd.Parameters.AddRange(parameters);
 
@@ -103,6 +105,7 @@ namespace OracleDBAdmin.Data
             using (var conn = GetConnection())
             using (var cmd = new OracleCommand(sql, conn))
             {
+                cmd.BindByName = true;
                 if (parameters != null && parameters.Length > 0)
                     cmd.Parameters.AddRange(parameters);
 

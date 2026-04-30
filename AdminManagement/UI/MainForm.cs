@@ -29,11 +29,14 @@ namespace OracleDBAdmin.UI
         private Button btnHoSoBenhAn;
         private Button btnDichVuChiDinh;
         private Button btnDonThuoc;
+        private Button btnBenhNhanDieuTri;
+
         private Button btnCongViecKTV;
         private Button btnCapNhatKetQua;
         private Button btnQuanLyBenhNhan;
         private Button btnTaoHSBA;
         private Button btnDieuPhoi;
+
 
         public MainForm()
         {
@@ -195,18 +198,24 @@ namespace OracleDBAdmin.UI
         {
             btnHoSoBenhAn = CreateTabButton(
                 "Hồ sơ phụ trách",
-                (s, e) => ShowComingSoon("Chức năng này sẽ dùng VPD để bác sĩ chỉ xem hồ sơ bệnh án mình phụ trách.")
+                (s, e) => LoadControl(new UcHoSoBacSi())
+            );
+
+            btnBenhNhanDieuTri = CreateTabButton(
+                "Bệnh nhân điều trị",
+                (s, e) => LoadControl(new UcBenhNhanBacSi())
             );
 
             btnDichVuChiDinh = CreateTabButton(
                 "Dịch vụ chỉ định",
-                (s, e) => ShowComingSoon("Chức năng này sẽ cho bác sĩ thêm/xóa dịch vụ HSBA_DV thuộc hồ sơ mình phụ trách.")
+                (s, e) => LoadControl(new UcDichVuChiDinh())
             );
 
             btnDonThuoc = CreateTabButton(
                 "Đơn thuốc",
-                (s, e) => ShowComingSoon("Chức năng này sẽ cho bác sĩ quản lý đơn thuốc thuộc hồ sơ mình phụ trách.")
+                (s, e) => LoadControl(new UcDonThuoc())
             );
+
             btnCapNhatThongTin = CreateTabButton(
                 "Cập nhật thông tin",
                 (s, e) => LoadControl(new UcCapNhatThongTin())
@@ -215,6 +224,7 @@ namespace OracleDBAdmin.UI
             nav.Controls.Add(btnThongTinTaiKhoan);
             nav.Controls.Add(btnCapNhatThongTin);
             nav.Controls.Add(btnHoSoBenhAn);
+            nav.Controls.Add(btnBenhNhanDieuTri);
             nav.Controls.Add(btnDichVuChiDinh);
             nav.Controls.Add(btnDonThuoc);
         }
@@ -222,14 +232,10 @@ namespace OracleDBAdmin.UI
         private void CreateKtvMenu()
         {
             btnCongViecKTV = CreateTabButton(
-                "Công việc được phân công",
-                (s, e) => ShowComingSoon("Chức năng này sẽ đọc VIEW_CONGVIEC_KTV để KTV chỉ thấy dịch vụ được phân công.")
+                "Công việc KTV",
+                (s, e) => LoadControl(new UcCongViecKTV())
             );
 
-            btnCapNhatKetQua = CreateTabButton(
-                "Cập nhật kết quả",
-                (s, e) => ShowComingSoon("Chức năng này sẽ cập nhật trường KETQUA trên VIEW_CONGVIEC_KTV.")
-            );
             btnCapNhatThongTin = CreateTabButton(
                 "Cập nhật thông tin",
                 (s, e) => LoadControl(new UcCapNhatThongTin())
@@ -238,25 +244,25 @@ namespace OracleDBAdmin.UI
             nav.Controls.Add(btnThongTinTaiKhoan);
             nav.Controls.Add(btnCapNhatThongTin);
             nav.Controls.Add(btnCongViecKTV);
-            nav.Controls.Add(btnCapNhatKetQua);
         }
 
         private void CreateDpvMenu()
         {
             btnQuanLyBenhNhan = CreateTabButton(
                 "Quản lý bệnh nhân",
-                (s, e) => ShowComingSoon("Điều phối viên có thể xem, thêm và sửa dữ liệu bệnh nhân.")
+                (s, e) => LoadControl(new UcDieuPhoiVien(0))
             );
 
             btnTaoHSBA = CreateTabButton(
-                "Tạo hồ sơ bệnh án",
-                (s, e) => ShowComingSoon("Điều phối viên có thể tạo mới hồ sơ bệnh án.")
+                "Tạo HSBA",
+                (s, e) => LoadControl(new UcDieuPhoiVien(1))
             );
 
             btnDieuPhoi = CreateTabButton(
                 "Điều phối",
-                (s, e) => ShowComingSoon("Điều phối viên cập nhật bác sĩ, khoa và kỹ thuật viên phụ trách.")
+                (s, e) => LoadControl(new UcDieuPhoiVien(2))
             );
+
             btnCapNhatThongTin = CreateTabButton(
                 "Cập nhật thông tin",
                 (s, e) => LoadControl(new UcCapNhatThongTin())

@@ -221,7 +221,7 @@ namespace OracleDBAdmin.UI.Controls
         {
             pnlForm.Controls.Clear();
 
-            int labelX = 28;
+            int labelX = 20;
             int inputX = 190;
 
             pnlForm.Controls.Add(CreateLabel("Quê quán", labelX, 30));

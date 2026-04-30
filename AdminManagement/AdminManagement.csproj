@@ -87,10 +87,28 @@
     <Compile Include="Services\PrivilegeService.cs" />
     <Compile Include="Services\RoleService.cs" />
     <Compile Include="Services\UserService.cs" />
+    <Compile Include="UI\Controls\UcBenhNhanBacSi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="UI\Controls\UcCapNhatThongTin.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Include="UI\Controls\UcCongViecKTV.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Controls\UcDichVuChiDinh.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Controls\UcDieuPhoiVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Controls\UcDonThuoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="UI\Controls\UcGrantPrivilege.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Controls\UcHoSoBacSi.cs">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Include="UI\Controls\UcRevokePrivilege.cs">
