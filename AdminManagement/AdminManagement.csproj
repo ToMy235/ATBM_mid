@@ -120,6 +120,9 @@
     <Compile Include="UI\Controls\UcRoleList.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Include="UI\Controls\UcThongBaoOLS.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="UI\Controls\UcThongTinTaiKhoan.cs">
       <SubType>UserControl</SubType>
     </Compile>

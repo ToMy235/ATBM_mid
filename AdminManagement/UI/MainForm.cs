@@ -36,6 +36,7 @@ namespace OracleDBAdmin.UI
         private Button btnQuanLyBenhNhan;
         private Button btnTaoHSBA;
         private Button btnDieuPhoi;
+        private Button btnThongBaoOLS;
 
 
         public MainForm()
@@ -46,7 +47,10 @@ namespace OracleDBAdmin.UI
             InitializeUi();
             CreateMenuByRole();
 
-            LoadControl(new UcThongTinTaiKhoan());
+            if (currentRole == "OLS")
+                LoadControl(new UcThongBaoOLS());
+            else
+                LoadControl(new UcThongTinTaiKhoan());
         }
 
         private string GetCurrentUser()
@@ -79,6 +83,9 @@ namespace OracleDBAdmin.UI
 
             if (username.StartsWith("DPV"))
                 return "DPV";
+
+            if (username.StartsWith("U"))
+                return "OLS";
 
             return "UNKNOWN";
         }
@@ -156,9 +163,14 @@ namespace OracleDBAdmin.UI
             {
                 CreateDpvMenu();
             }
+            else if (currentRole == "OLS")
+            {
+                CreateOlsMenu();
+            }
             else
             {
                 nav.Controls.Add(btnThongTinTaiKhoan);
+                AddThongBaoOlsButton();
             }
         }
 
@@ -179,6 +191,7 @@ namespace OracleDBAdmin.UI
             nav.Controls.Add(btnGrant);
             nav.Controls.Add(btnRevoke);
             nav.Controls.Add(btnViewPrivilege);
+            AddThongBaoOlsButton();
 
             nav.Controls.Add(btnThongTinTaiKhoan);
         }
@@ -192,6 +205,7 @@ namespace OracleDBAdmin.UI
 
             nav.Controls.Add(btnThongTinTaiKhoan);
             nav.Controls.Add(btnCapNhatThongTin);
+            AddThongBaoOlsButton();
         }
 
         private void CreateBacSiMenu()
@@ -227,6 +241,7 @@ namespace OracleDBAdmin.UI
             nav.Controls.Add(btnBenhNhanDieuTri);
             nav.Controls.Add(btnDichVuChiDinh);
             nav.Controls.Add(btnDonThuoc);
+            AddThongBaoOlsButton();
         }
 
         private void CreateKtvMenu()
@@ -244,6 +259,7 @@ namespace OracleDBAdmin.UI
             nav.Controls.Add(btnThongTinTaiKhoan);
             nav.Controls.Add(btnCapNhatThongTin);
             nav.Controls.Add(btnCongViecKTV);
+            AddThongBaoOlsButton();
         }
 
         private void CreateDpvMenu()
@@ -273,6 +289,21 @@ namespace OracleDBAdmin.UI
             nav.Controls.Add(btnQuanLyBenhNhan);
             nav.Controls.Add(btnTaoHSBA);
             nav.Controls.Add(btnDieuPhoi);
+            AddThongBaoOlsButton();
+        }
+
+        private void CreateOlsMenu()
+        {
+            AddThongBaoOlsButton();
+        }
+
+        private void AddThongBaoOlsButton()
+        {
+            btnThongBaoOLS = CreateTabButton(
+                "Thông báo OLS",
+                (s, e) => LoadControl(new UcThongBaoOLS())
+            );
+            nav.Controls.Add(btnThongBaoOLS);
         }
 
         private Button CreateTabButton(string text, EventHandler click)
